@@ -32,9 +32,6 @@ npm install
 npm start
 ```
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Screenshots
 Home Page
@@ -42,9 +39,17 @@ Home Page
 ![image](https://github.com/charlesaurav13/Blog_Website/assets/81438796/72b32ac2-d7f1-40b1-8a2e-55a4b050919a)
 
 
+
 Post Page
 
 ![image](https://github.com/charlesaurav13/Blog_Website/assets/81438796/bff93306-dd01-4d3d-acfd-b25e589a8f1b)
+
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
