@@ -23,7 +23,8 @@ Edit the db.js file in /api/db.js.
 Open terminal and type command
 
 ```bash
-  npm install && npm start 
+ npm install
+ npm start 
 ```
 After this ,navigate to client/client-app directory
 
